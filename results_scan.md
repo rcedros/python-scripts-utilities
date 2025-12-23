@@ -1,7 +1,7 @@
-# Relatório de Vulnerabilidades - Scan Automático
+# Relatório de Vulnerabilidades - Scan Automático | teste
 **Data do Relatório:** 21/12/2025
 **Status:** Análise Concluída
-
+**Aplicação:** uol.com.br
 ---
 
 **Vulnerabilidade:** Missing HSTS Header  
