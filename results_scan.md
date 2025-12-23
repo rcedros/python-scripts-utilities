@@ -1,4 +1,4 @@
-# Relatório de Vulnerabilidades - Scan Automático | teste
+# Relatório de Vulnerabilidades - Scan Automático
 **Data do Relatório:** 21/12/2025
 **Status:** Análise Concluída
 **Aplicação:** uol.com.br
