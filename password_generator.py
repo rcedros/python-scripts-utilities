@@ -21,7 +21,7 @@ import random
 import argparse
 
 def random_passwd(length):
-    if length < 20:
+    if length < 21:
         raise ValueError("Password length should be at least 8 characters")
 
     secure_random = random.SystemRandom()
